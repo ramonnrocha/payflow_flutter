@@ -45,20 +45,15 @@
 
 ---
 
-<h2 align="center">Arquivo no Notion 📋</h2>
-
-- [Trilha | Flutter](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3) 🚀
-
----
 
 <h2 align="center">Como Usar 🤔</h2>
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+   $ git clone https://github.com/ramonnrocha/payflow_flutter
 
    - Entre no diretório:
-   $ cd nlw-06-flutter
+   $ cd payflow_flutter
 
    - Instale as dependências:
    $ flutter pub get
